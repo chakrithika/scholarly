@@ -12,7 +12,7 @@
   "dependencies": {
     "@replit/connectors-sdk": "^0.4.1"
   },
-  "devDependencies": {
+  "devDependencies": {"@vitejs/plugin-react": "^4.2.1",
     "prettier": "^3.9.5",
     "typescript": "~5.9.3"
   }
